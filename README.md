@@ -20,6 +20,7 @@
     </p>
   </div>
 </div>
+<br>
 <!-- ===================== Tools ===================== -->
 <h3 align="left">🛠 Languages & Tools</h3>
 
