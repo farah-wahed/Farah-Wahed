@@ -3,7 +3,7 @@
 <h2 align="left">Hi 👋, I'm Farah</h2>
 
 <div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
-  <!-- Right: GIF -->
+
   <div>
     <img
       height="140"
@@ -11,7 +11,7 @@
       src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
     />
   </div>
-  <!-- Left: Text -->
+
   <div style="padding-right: 40px;">
     <p>
       Flutter developer 📱<br>
@@ -19,12 +19,7 @@
       Building clean & responsive mobile apps
     </p>
   </div>
-
-  
 </div>
-
-<br/>
-
 <!-- ===================== Tools ===================== -->
 <h3 align="left">🛠 Languages & Tools</h3>
 
