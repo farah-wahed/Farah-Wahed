@@ -61,7 +61,7 @@
 <h3 align="left">📫 Contact Me</h3>
 
 <p align="left">
-  <a href="mailto:farah.aw.wesch@gmail.com">✉ Email</a> &nbsp; | &nbsp;
-  <a href="https://www.linkedin.com/in/farah-wahed-a09089249" target="_blank">🔗 LinkedIn</a>>
+  <a href="mailto:farah.aw.wesch@gmail.com">✉ Email </a> &nbsp; | &nbsp;
+  <a href="https://www.linkedin.com/in/farah-wahed-a09089249" target="_blank"> 🔗 LinkedIn</a>>
 </p>
 
