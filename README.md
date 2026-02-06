@@ -1,26 +1,22 @@
 <!-- ===================== Intro + About Me ===================== -->
 <h2 align="left">Hi 👋, I'm Farah</h2>
 
-<table style="border-collapse: collapse; border: none; width: 100%;">
-  <tr>
-    <!-- Left: Text -->
-    <td align="left" valign="middle" style="padding-right: 40px; border: none;">
-      <p>
-        Flutter developer 📱<br>
-        NCTU student 🎓<br>
-        Building clean & responsive mobile apps
-      </p>
-    </td>
-    <!-- Right: GIF -->
-    <td align="right" valign="middle" style="border: none;">
-      <img
-        height="140"
-        alt="coding animation"
-        src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
-      />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <p>
+      Flutter developer 📱<br>
+      NCTU student 🎓<br>
+      Building clean & responsive mobile apps
+    </p>
+  </div>
+  <div>
+    <img
+      height="140"
+      alt="coding animation"
+      src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
+    />
+  </div>
+</div>
 
 <br/>
 
