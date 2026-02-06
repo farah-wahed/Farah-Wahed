@@ -1,10 +1,16 @@
-<!-- ===================== Intro + About Me ===================== -->
-<h2 align="left">Hi 👋, I'm Farah</h2>
 
 <!-- ===================== Intro + About Me ===================== -->
 <h2 align="left">Hi 👋, I'm Farah</h2>
 
 <div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
+  <!-- Right: GIF -->
+  <div>
+    <img
+      height="140"
+      alt="coding animation"
+      src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
+    />
+  </div>
   <!-- Left: Text -->
   <div style="padding-right: 40px;">
     <p>
@@ -14,14 +20,7 @@
     </p>
   </div>
 
-  <!-- Right: GIF -->
-  <div>
-    <img
-      height="140"
-      alt="coding animation"
-      src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
-    />
-  </div>
+  
 </div>
 
 <br/>
