@@ -1,10 +1,10 @@
 <!-- ===================== Intro + About Me ===================== -->
 <h2 align="left">Hi 👋, I'm Farah</h2>
 
-<table>
+<table style="border-collapse: collapse; border: none;">
   <tr>
     <!-- Left: Text -->
-    <td align="left" valign="middle" style="padding-right:40px;">
+    <td align="left" valign="middle" style="padding-right:40px; border: none;">
       <p>
         Flutter developer 📱<br>
         NCTU student 🎓<br>
@@ -12,7 +12,7 @@
       </p>
     </td>
     <!-- Right: GIF -->
-    <td align="right" valign="middle">
+    <td align="right" valign="middle" style="border: none;">
       <img
         height="140"
         alt="coding animation"
@@ -21,6 +21,7 @@
     </td>
   </tr>
 </table>
+
 
 <br/>
 
@@ -42,8 +43,7 @@
 </div>
 
 <br clear="both"/>
-
-<!-- ===================== Projects ===================== -->
+<!--
 <h3 align="left">📂 Projects</h3>
 
 <ul>
@@ -55,6 +55,7 @@
   </li>
   <!-- Add more projects here as you build them -->
 </ul>
+-->
 
 <!-- ===================== Contact ===================== -->
 <h3 align="left">📫 Contact Me</h3>
