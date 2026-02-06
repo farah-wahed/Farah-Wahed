@@ -1,14 +1,20 @@
 <!-- ===================== Intro + About Me ===================== -->
 <h2 align="left">Hi 👋, I'm Farah</h2>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
+<!-- ===================== Intro + About Me ===================== -->
+<h2 align="left">Hi 👋, I'm Farah</h2>
+
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
+  <!-- Left: Text -->
+  <div style="padding-right: 40px;">
     <p>
       Flutter developer 📱<br>
       NCTU student 🎓<br>
       Building clean & responsive mobile apps
     </p>
   </div>
+
+  <!-- Right: GIF -->
   <div>
     <img
       height="140"
