@@ -16,7 +16,7 @@
     <p>
       Flutter developer 📱<br>
       NCTU student 🎓<br>
-      Problem Solver 🧩
+      Problem Solver 🧩<br>
       Building clean & responsive mobile apps<br>
       Open to collaboration & learning
     </p>
